@@ -1,4 +1,6 @@
 # Count-finger
+
+
 An Application that can detect a hand,segment the hand and count the number of fingers being held.  
 Pre Requisite 
 -> OpenCV 
